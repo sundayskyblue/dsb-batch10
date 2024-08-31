@@ -13,4 +13,4 @@ My data science and analytics projects
 reach out to me at
 
 ## Image
-![Alt text](https://cdn.shopify.com/s/files/1/0416/8083/0620/files/CN-Friends.jpg)
+![Alt text](https://cdn.shopify.com/s/files/1/0416/8083/0620/files/blog_cinnamoroll-friends_02282022_01-TinyPoem_480x480.jpg?v=1646098213)
