@@ -10,7 +10,7 @@ My data science and analytics projects
 5. Linear Regression Model using caret
 
 ## Contact Me
-reach
+reach out to me at
 
 ## Image
 ![Alt text](https://cdn.shopify.com/s/files/1/0416/8083/0620/files/CN-Friends.jpg)
